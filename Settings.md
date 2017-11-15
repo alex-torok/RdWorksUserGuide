@@ -25,7 +25,7 @@ Power(%)* at the start and stop of scan lines
 ## Bitmap Scan Settings
 
 The below settings are only controllable if the target layer is operating on
-an imported bitmap image. These settings can't do anything for vector layers.
+an imported bitmap image. These settings are disabled for vector layers.
 
 ### Output Direct
 
