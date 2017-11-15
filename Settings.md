@@ -9,8 +9,8 @@ save a lot of time executing the job.
 
 **?** What does this setting do for BMP layers **?**
 *Note:* In the gradient test file for **Output Direct**, the block gradient and
-smooth gradient aren't properly output unless **Independent Output** is checked.
-Try enabling/disabling **Independent Output** for the **Output Direct** layer
+smooth gradient aren't properly output unless *Independent Output* is checked.
+Try enabling/disabling **Independent Output** for the *Output Direct* layer
 and looking at the preview window.
 
 **Ramp Effect**
