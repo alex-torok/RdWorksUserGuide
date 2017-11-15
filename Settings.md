@@ -31,6 +31,8 @@ it is scanning over. Pure white maps to *Min Power(%)* and pure black maps to
 This setting can be useful to get varying depths when attempting 3d etching. It
 is also good for getting smooth gradients when etching images.
 
+*Note*: Enabling *Output Direct* disables the *Overstriking* scan parameter.
+
 **Negative Engrave**
 *Negative Engrave* inverts the laser power for the scan. Instead of black parts
 of an image causing the laser to turn on, the white parts will.
