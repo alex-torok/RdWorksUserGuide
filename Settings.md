@@ -27,7 +27,7 @@ Power(%)* at the start and stop of scan lines
 The below settings are only controllable if the target layer is operating on
 an imported bitmap image. These settings are disabled for vector layers.
 
-### Output Direct
+### Output Direct ([example](Examples/OutputDirect))
 
 *Output direct* causes the laser power to adjust based on the blackness of pixel
 it is scanning over. Pure white maps to *Min Power(%)* and pure black maps to
